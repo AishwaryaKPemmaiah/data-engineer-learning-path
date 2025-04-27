@@ -1,4 +1,4 @@
-                                                                                          Data Engineering Learning Path
+                                            Data Engineering Learning Path
 
 This repository documents my structured learning journey as I build the skills required to become a professional Data Engineer. It focuses on mastering core programming, relational databases with PostgreSQL, ETL development, Big Data processing, cloud platforms, and best practices in data engineering.
 
