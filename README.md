@@ -81,10 +81,9 @@ Phase 4: Continuous Learning
 
         PostgreSQL Professional Certification
 
-Repository Structure
-
 This repository is organized by learning phases and technologies to reflect a systematic growth approach.
 
+```
 ├── Phase_1_Foundations/
 │   ├── Python_Basics/
 │   ├── PostgreSQL_SQL/
@@ -110,6 +109,8 @@ This repository is organized by learning phases and technologies to reflect a sy
 │
 ├── README.md
 └── requirements.txt (optional for dependency management)
+```
+
 
 Each directory contains notes, mini-projects, hands-on exercises, and documentation aligned with my learning milestones.
 
