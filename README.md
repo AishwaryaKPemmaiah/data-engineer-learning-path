@@ -8,7 +8,7 @@ Learning Phases
 Phase 1: Foundations
 
     Programming with Python  
-    Strengthening my Python fundamentals: data structures, control flow, modular programming. 
+    Strengthening my Python fundamentals: data structures, control flow, modular programming.
     Solving coding exercises to develop problem-solving skills.
 
     Databases and PostgreSQL  
